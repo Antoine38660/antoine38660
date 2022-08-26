@@ -11,7 +11,7 @@ I'm Antoine, a 27 years old passionate web developer from France 🇫🇷.
 - 💽 PostgreSQL, Mongo
 
 ## Contact
-- [Antoine Boisadam](https://linkedin.com/antoineboisadam) on Linkedin
+- [Antoine Boisadam](https://linkedin.com/in/antoineboisadam) on Linkedin
 - [@antoitnoeud](https://twitter.com/antoitnoeud) on Twitter
 - [@antoine38](https://www.instagram.com/antoine38) on Instagram
 
