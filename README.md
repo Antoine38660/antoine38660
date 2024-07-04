@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Antoine, a 27 years old passionate web developer from France 🇫🇷.
+I'm Antoine, a 29 years old passionate web developer from France 🇫🇷.
 
 - 🐨 Founder of [Kwala](https://github.com/kwala-fr)
 - 🚗 Creator of [J'AACcélère](https://www.jaaccelere.com/) in 2016 👴
